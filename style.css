@@ -1,0 +1,65 @@
+body {
+  background-image: linear-gradient(#9141b6 , #450166);
+  height: 100vh;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input {
+  background-color: aliceblue;
+  width: 240px;
+  height: 30px;
+  margin: 38px 16px 16px 0px;
+  padding: 5px;
+  border: 4px;
+  font-size: 17px;
+  box-shadow: 1px 3px #ffa600;
+  border-radius: 15px 0px 15px 0px;
+  opacity: 0.4;
+}
+
+#weather {
+  font-style: italic;
+  margin: 0px;
+  padding: 10px;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  padding: 10px;
+}
+
+.dates {
+  font-size: 20px;
+  padding: 5px;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 45px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0px;
+  padding: 10px;
+}
+
+#temperature {
+  font-size: 70px;
+  text-shadow: 6px 6px #000000;
+  margin: 0px;
+  padding: 10px;
+}
+
+.topthing {
+  margin-top: 30px;
+}
+
+#weather {
+  font-size: 40px;
+}
